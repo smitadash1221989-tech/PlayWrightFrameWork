@@ -1,0 +1,50 @@
+{
+    "ValidUser":{
+        "username":"standard_user",
+        "password": "secret_sauce"
+    },
+    "lockedUser":{
+        "username":"locked_out_user",
+        "password":"secret_sauce"
+    },
+    "EmptyUser":{
+        "username":"",
+        "password":"secret_sauce"
+    },
+    "ProductByName":{
+        "prod1":{
+            "id":"sauce-labs-backpack",
+            "name":"Sauce Labs Backpack"
+        },
+        "prod2":
+        {"id":"sauce-labs-bike-light",
+        "name":"Sauce Labs Bike Light" },
+        "prod3":{
+            "id": "sauce-labs-bolt-t-shirt",
+            "name":"Sauce Labs Bolt T-Shirt"
+        },
+        "prod4":{
+            "id":"sauce-labs-fleece-jacket",
+            "name":"Sauce Labs Fleece Jacket"
+
+        },
+        "prod5":{
+            "id":"sauce-labs-onesie",
+            "name":"Sauce Labs Onesie"
+        },
+        "prod6":
+        {
+            "id":"test.allthethings()-t-shirt-(red)",
+            "name":"Test.allTheThings() T-Shirt (Red)"
+        }
+    },
+    "SortOrder":{
+        "sort1":"Name (A to Z)",
+        "sort2":"Name (Z to A)" ,
+        "sort3":"Price (low to high)",
+        "sort4":"Price (high to low)"
+
+
+    }
+    
+}
